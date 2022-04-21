@@ -1,12 +1,12 @@
 Name: RBoxplotFamily
 Dialog-Specs: RBoxplotFamily.spd
 Summary: R-based dialog for box plots from the box plot family
-Description: Dialog to visualize the distribution of a scale variable 
+Description: Dialog to visualize the distribution of a scale variable
  by means of graphs of the box plot family: Highest Density Regions (H
  DR) Density Plot, Standard Box Plot, Violin Plot, Box-Percentile Plot
   and Highest Density Regions (HDR) Box Plot.
 Author: Dr. Hans Grüner, Freie Universität Berlin
-Version: 8.0.1
+Version: 8.0.2
 Product-Version: 18
 Date: 17.03.2012
 Categories: box_plot, dialog, dialog, extension_command, graphics, plo
